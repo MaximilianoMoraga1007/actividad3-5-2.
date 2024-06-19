@@ -1,6 +1,9 @@
 def sumar(a,b):
     suma=(a+b)
     return(suma)
+ def resta(a,b):
+     resta(a-b)
+     return(resta)
 ing_ok=True
 while ing_ok==True:
     try:
